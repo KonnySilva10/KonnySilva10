@@ -1,4 +1,4 @@
-# konnysilva-10 
+# KonnySilva10
 <h1>👋 Hola, soy Konny</h1>
 <p>Soy aprendiz de <strong>Análisis y Desarrollo de Software</strong> y me apasiona el mundo de la <strong>programación</strong>. Actualmente estoy aprendiendo y fortaleciendo mis conocimientos para crecer como desarrolladora de software.</p>
 <h2>🚀 Sobre mí</h2>
