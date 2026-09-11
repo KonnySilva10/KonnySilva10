@@ -6,9 +6,6 @@
 <li>💻 Estoy aprendiendo <strong>programación con Python</strong>.</li>
 <li>🧠 Me interesa aprender y practicar <strong>algoritmos y lógica de programación</strong>.</li>
 <li>🔀 Estoy aprendiendo <strong>control de versiones con Git</strong>.</li>
-<li>🧩 Me interesa desarrollar software aplicando <strong>buenas prácticas</strong>.</li>
-<li>🏗️ Estoy aprendiendo sobre <strong>patrones de diseño</strong>.</li>
-<li>🌱 Me gusta aprender nuevas tecnologías y mejorar constantemente.</li>
 <li>🛠️ Mi objetivo es desarrollar <strong>proyectos reales</strong> para poner en práctica mis conocimientos.</li>
 </ul>
 <h2>📚 Actualmente aprendiendo</h2>
@@ -16,11 +13,8 @@
 <li><strong>Python</strong></li>
 <li><strong>Algoritmos y lógica de programación</strong></li>
 <li><strong>Git y control de versiones</strong></li>
-<li><strong>Buenas prácticas de desarrollo</strong></li>
-<li><strong>Desarrollo de proyectos reales</strong></li>
 </ul>
 <h2>🎯 Mi objetivo</h2>
 <p>Quiero seguir creciendo en el área de <strong>desarrollo de software</strong>, fortalecer mis bases de programación y aprender a crear soluciones útiles, organizadas y mantenibles.</p>
 <blockquote>
-<p>🌱 Aprendiendo, practicando y construyendo proyectos reales paso a paso.</p>
-</blockquote>
+
