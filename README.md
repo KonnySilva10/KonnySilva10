@@ -15,6 +15,6 @@
 <li><strong>Git y control de versiones</strong></li>
 </ul>
 <h2>🎯 Mi objetivo</h2>
-<p>Quiero seguir creciendo en el área de <strong>desarrollo de software</strong>, fortalecer mis bases de programación y aprender a crear soluciones útiles, organizadas y mantenibles.</p>
-<blockquote>
+<p>Quiero seguir creciendo en el área de <strong>desarrollo de software</strong>, fortalecer mis bases de programación y aprender a crear soluciones útiles, organizadas</p>
+
 
